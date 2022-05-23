@@ -1,12 +1,12 @@
 # Zoo Management System - 'admin_name' Stored Cross-Site Scripting(XSS)
 
    
-# Exploit Title: Zoo Management System - 'admin_name' Stored Cross-Site Scripting(XSS)
-# Exploit Author: webraybtl@webray.com.cn inc
-# Vendor Homepage: https://www.sourcecodester.com/php/15347/zoo-management-system-source-code-php-mysql-database.html
-# Software Link: https://www.sourcecodester.com/download-code?nid=15347&title=Zoo+Management+System+source+code+in+PHP+with+MySQL+Database
-# Version: Zoo Management System 1.0
-# Tested on: Windows Server 2008 R2 Enterprise, Apache ,Mysql
+#### Exploit Title: Zoo Management System - 'admin_name' Stored Cross-Site Scripting(XSS)
+#### Exploit Author: webraybtl@webray.com.cn inc
+#### Vendor Homepage: https://www.sourcecodester.com/php/15347/zoo-management-system-source-code-php-mysql-database.html
+#### Software Link: https://www.sourcecodester.com/download-code?nid=15347&title=Zoo+Management+System+source+code+in+PHP+with+MySQL+Database
+#### Version: Zoo Management System 1.0
+#### Tested on: Windows Server 2008 R2 Enterprise, Apache ,Mysql
 
 #### Description
 Persistent XSS (or Stored XSS) attack is one of the three major categories of XSS attacks, the others being Non-Persistent (or Reflected) XSS and DOM-based XSS. In general, XSS attacks are based on the victim’s trust in a legitimate, but vulnerable, website or web application.Zoo Management System does not filter the content correctly at the "content" module, resulting in the generation of stored XSS.
