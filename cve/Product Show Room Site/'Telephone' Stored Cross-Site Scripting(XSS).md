@@ -24,13 +24,8 @@ Password: admin123
 1. Open Page http://172.24.5.107/psrs/admin/?page=system_info/contact_info and click View button
 
 2. Put XSS payload  (`<script>alert(111)</script>`) in the Telephone box and click on Update to publish the page
-![](media/16541584230777/16541588188582.jpg)
-
-   
-
-   
-
-4. Open http://172.24.5.107/psrs/?p=contact,Viewing the successfully published page,We can see the alert.
-
-    ![](media/16541584230777/16541588784831.jpg)
+   ![image](https://user-images.githubusercontent.com/60683449/171591851-2068eea2-b789-464f-8afb-9f6b6f8eaedd.png)
+    
+3. Open http://172.24.5.107/psrs/?p=contact,Viewing the successfully published page,We can see the alert.
+   ![image](https://user-images.githubusercontent.com/60683449/171591881-2962a429-f2de-4979-8e27-6fdd8f62c61c.png)
 
