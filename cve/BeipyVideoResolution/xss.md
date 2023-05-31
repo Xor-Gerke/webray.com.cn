@@ -10,16 +10,17 @@
 Persistent XSS (or Stored XSS) attack is one of the three major categories of XSS attacks, the others being Non-Persistent (or Reflected) XSS and DOM-based XSS. In general, XSS attacks are based on the victim’s trust in a legitimate, but vulnerable, website or web application.Product Show Room Site does not filter the content correctly at the "admin/admincore.php" module, resulting in the generation of stored XSS.
 1. vulnerability source code
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/36450a45-e133-4f68-b8f4-e749fddb3661)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/1f9d7b87-b958-472d-9bcb-1a6b810482ea)
 
 2. request a post data and response 200 status_code,vulnerability variable in aik[gonggao]
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/c2dc9e82-c0c4-45b0-817f-60d510ccf9c0)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/c605f644-2e21-44f1-b04f-cbfbb4a60e07)
 
 
 
 
 3. Request website homepage
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/d6e18c57-7575-4a3e-b830-d9d4ff473806)
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/d720c8a4-72b6-4efe-8809-dc66cfd6f8b2)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/6ef6dec5-0e05-4b5f-b0c3-1d6ab367cbf9)
+
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/de83b351-914c-45c6-af54-0d65e7489c0e)
 
