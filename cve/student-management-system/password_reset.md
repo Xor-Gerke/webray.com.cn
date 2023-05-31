@@ -20,7 +20,7 @@ test account:201600012489
 
 1. Open login.php source code.
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/09c9d16d-8893-40be-8d43-f953619242f8)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/6013b5bb-e0ed-4124-8d72-34522bfcd10c)
 2. request a getUser.php response.
 ```
 GET /student/admin/fun/getUser.php HTTP/1.1
@@ -39,12 +39,12 @@ Cache-Control: no-cache
 
 
 ```
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/205b0b56-c798-43a7-8da7-72b930833d19)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/be8169a9-efe5-40b2-a564-b65eb70a74fa)
 
 
 3. request a resetPassword.php response.
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/01fc6eed-31ad-4e62-b92f-572754c71785)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/87ea04ff-66f3-4b95-9ad9-9077942f913d)
 
 ```
 GET /student/admin/fun/resetPassword.php?sid=201600012489 HTTP/1.1
@@ -65,8 +65,8 @@ Cache-Control: no-cache
 
 4. user login
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/e41ff0f2-2866-4ade-be98-dc40f57677b5)
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/bb867c0d-537c-4ae6-8d5d-a1d7ab770dba)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/d8aa4339-95c7-488a-96ea-b89c31f0eb54)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/aefb7b99-80b4-45b5-90b9-b317262aba95)
 
 
 
