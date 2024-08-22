@@ -37,9 +37,9 @@ username=1' or 1=1#
 ```
 
 ## Proof of Concept
+![image](https://github.com/user-attachments/assets/becc5551-8baf-4a6f-b19a-e520022ecbc6)
 
-![](D:\software_data\markdown_image\2024-08-22-14-11-47-image.png)
+![image](https://github.com/user-attachments/assets/1f86a55c-dabf-4670-831f-d15be59ed4f1)
 
-![](D:\software_data\markdown_image\2024-08-22-14-12-00-image.png)
+![image](https://github.com/user-attachments/assets/6afe1a37-a9ab-47fd-8156-ef0dfcfb6e5f)
 
-![](D:\software_data\markdown_image\2024-08-22-14-12-10-image.png)
