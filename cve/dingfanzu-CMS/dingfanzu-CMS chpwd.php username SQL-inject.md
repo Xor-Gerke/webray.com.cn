@@ -38,6 +38,8 @@ username=1' or sleep(3)#&password=
 
 ## Proof of Concept
 
-![](D:\software_data\markdown_image\2024-08-22-14-07-33-image.png)
+![image](https://github.com/user-attachments/assets/268e70fa-4a33-45a9-bbf0-c12b8ebf1755)
+
+![image](https://github.com/user-attachments/assets/d9d46261-a12c-4444-9301-1bbf49cc6b46)
 
 ![](D:\software_data\markdown_image\2024-08-22-14-08-54-image.png)
