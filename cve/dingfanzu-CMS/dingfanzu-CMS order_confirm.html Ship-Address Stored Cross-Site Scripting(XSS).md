@@ -26,16 +26,18 @@ Persistent XSS (or Stored XSS) attack is one of the three major categories of XS
 
 register a account
 
-![](D:\software_data\markdown_image\2024-08-22-14-47-37-image.png)
+![image](https://github.com/user-attachments/assets/c4ecba1c-5041-4f43-9d86-30429e2cc7f6)
 
-![](D:\software_data\markdown_image\2024-08-22-14-47-59-image.png)
+![image](https://github.com/user-attachments/assets/73a1f072-6a18-4eb6-8409-e8ad95828f8f)
 
 Write a user Delivery Address
 
-change HTML Maxlength 
+change HTML address-name Maxlength 
 
-![](D:\software_data\markdown_image\2024-08-22-15-21-41-image.png)
+![image](https://github.com/user-attachments/assets/a68d052b-0701-4ccb-9a48-a3bc4ca573a3)
+
 
 XSS-Payload :  `<img src=x onerror=alert(String.fromCharCode(88,83,83));>`
 
-![](D:\software_data\markdown_image\2024-08-22-15-15-51-image.png)
+![image](https://github.com/user-attachments/assets/7885f64d-249c-4358-b95f-8738a791ed83)
+
